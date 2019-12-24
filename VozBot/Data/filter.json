@@ -1,0 +1,69 @@
+[
+  {
+    "Key": [
+      "ế"
+    ],
+    "Message": "Ế thì liên hệ Tâm hoặc Phúc nha."
+  },
+  {
+    "Key": [
+      "bot ơi"
+    ],
+    "Message": "Em đây [firstname] [lastname] ơi. Bác định phát cạc cho em à?"
+  },
+  {
+    "Key": [
+      "bot",
+      "ngu"
+    ],
+    "Message": "[firstname] [lastname] ngu thì có. Phát cạc đê."
+  },
+  {
+    "Key": [
+      "vl"
+    ],
+    "Message": "Ấy đm đừng nói bậy, sang lên nào comrade êy."
+  },
+  {
+    "Key": [
+      "đm"
+    ],
+    "Message": "Nói bậy làm chóa nhá."
+  },
+  {
+    "Key": [
+      "vcl"
+    ],
+    "Message": "Xin thí chủ rút lại lời nói bậy. Tiện tay! Tiện tay!"
+  },
+  {
+    "Key": [
+      "vkl"
+    ],
+    "Message": "Đm nói bậy ít thôi phen."
+  },
+  {
+    "Key": [
+      "fuck"
+    ],
+    "Message": "Hãy nói Phúc, đừng nói F***."
+  },
+  {
+    "Key": [
+      "bot"
+    ],
+    "Message": "Bot đẹp trai đây, [firstname] [lastname] gọi em à?"
+  },
+  {
+    "Key": [
+      "ngon nhất"
+    ],
+    "Message": "Là cô Tâm nhé."
+  },
+  {
+    "Key": [
+      "khóa sim"
+    ],
+    "Message": "Liên hệ Tuấn Anh để hỏi cách mở khóa nha phen."
+  }
+]
